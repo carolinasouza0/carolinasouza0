@@ -1,8 +1,8 @@
 ## Olá!
 
-Meu nome é Carolina Pedrosa e sou estudante de desenvolvimento web pela Trybe, uma escola de programação que tem uma metodologia de ensino focada em trazer uma experiência real do dia a dia dentro do mercado de trabalho de uma pessoa desenvolvedora. 
+Meu nome é Carolina Pedrosa e sou completamente apaixonada por tecnologia, programação e educação. Atualmente estou estudando desenvolvimento web na escola Trybe. 
 
-Aqui vocês vão ter acesso a alguns exercícios e projetos produzidos por mim.
+Aqui vocês vão ter acesso aos exercícios e projetos produzidos por mim.
 
 
 <br>
