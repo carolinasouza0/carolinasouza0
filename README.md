@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋 </h1>
 Seja bem-vindo(a) ao meu perfil do GitHub. Aqui você encontrará informações sobre minhas experiências e interesses na área de programação e desenvolvimento web.
-<br><br>
+<br>
 <h2 align='left'>⚡️ Curiosidades</h1>
 <p>Tenho formação em Letras/Português.</p>
 <p>Apesar disso, também tenho experiência em Engenharia Elétrica, embora não tenha concluído o curso.</p> 
@@ -18,8 +18,8 @@ Seja bem-vindo(a) ao meu perfil do GitHub. Aqui você encontrará informações 
 
 - 🚧 TypeScript: Estou me familiarizando com o TypeScript para desenvolvimento de aplicações mais escaláveis e com menos erros. A tipagem estática e outras características do TypeScript são muito interessantes para mim.
   
-- 🚧 Next.js: Estou estudando o Next.js para desenvolvimento de aplicações web modernas. Estou animada com as possibilidades oferecidas por essa estrutura e seu foco em otimização de desempenho e SEO.
-  
+- 🚧 Next.js: Estou estudando o Next.js para desenvolvimento de aplicações web modernas. Estou animada com as possibilidades oferecidas por essa estrutura e seu foco em otimização de desempenho e SEO.  
+
 
 <h2 align="left">🔥 Hobbies</h3>
 <p>Fora do mundo da programação, tenho alguns hobbies:</p>
@@ -29,8 +29,10 @@ Seja bem-vindo(a) ao meu perfil do GitHub. Aqui você encontrará informações 
 - 📚 Leitura: Sou uma leitora ávida e devoro muitos livros de literatura. Tenho interesse por diferentes gêneros, desde ficção científica até literatura clássica. Adoro explorar novos mundos através da leitura.
   
 - 🎮 Jogos de Corrida no PS: Tenho um interesse especial por jogos de corrida no PlayStation. Gosto de me divertir e relaxar jogando esses jogos, desafiando meus reflexos e habilidades.
-  
 
+- 🎸 Música: Toco violão e ukulele. Adoro brincar com esses instrumentos e aprimorar minhas habilidades.
+
+  
 <h2 align="left">📓 Contato</h3>
 <p>Sinta-se à vontade para entrar em contato comigo para discutir projetos, colaborações ou apenas para trocar ideias. Você pode me encontrar nos seguintes canais:</p>
 
