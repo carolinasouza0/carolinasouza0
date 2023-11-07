@@ -1,4 +1,4 @@
-Olá, me chamo **Carolina Pedrosa**, sou de Recife, Brasil e atualmente trabalho como **Pessoa Desenvolvedora Mobile na Cronos Tech** 🚀. 
+Olá, me chamo **Carolina Pedrosa**, sou de Recife, Brasil e atualmente trabalho como **Pessoa Desenvolvedora na Cronos Tech** 🚀. 
 
 ⚡️ **Sobre mim**:
 
@@ -10,7 +10,6 @@ Olá, me chamo **Carolina Pedrosa**, sou de Recife, Brasil e atualmente trabalho
 🔥 Interesses Pessoais:
 
 - 👨🏽‍💻 Estou estudando **Orientação a objetos** para conseguir escrever códigos melhores e mais reutilizáveis;
-- 🌱 Estou aprendendo a desenvolver aplicativos em **Flutter**; 
 - 🤔 Meus hobbies são assistir jogos de vôlei e tênis e ler;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedora;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
