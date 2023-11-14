@@ -1,4 +1,4 @@
-Olá, me chamo **Carolina Pedrosa**, sou de Recife, Brasil e atualmente trabalho como **Pessoa Desenvolvedora na Cronos Tech** 🚀. 
+Olá, me chamo **Carolina Pedrosa**, sou de Recife, Brasil e atualmente estou fazendo o curso de **Desenvolvimento web Full Stack na Trybe** 🚀. 
 
 ⚡️ **Sobre mim**:
 
