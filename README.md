@@ -2,15 +2,15 @@ Olá, me chamo **Carolina Pedrosa**, sou de Recife, Brasil e atualmente estou fa
 
 ⚡️ **Sobre mim**:
 
-- Tenho formação em Letras/Português. Apesar disso, também tenho experiência em Engenharia Elétrica, embora não tenha concluído o curso.
+- Tenho formação em Letras/Português. Além disso, também cursei 3 anos de Engenharia Elétrica.
 - Durante minha graduação em Engenharia, tive a oportunidade de trabalhar com linguagens de programação como C/C++ e aprendi a utilizar o MatLab.
-- Além disso, tive uma experiência enriquecedora durante um intercâmbio de um ano na Irlanda, onde estudei Engenharia de Automação.</p>
+- Ttive uma experiência enriquecedora durante um intercâmbio de um ano na Irlanda, onde estudei Engenharia de Automação.</p>
 - Tenho uma paixão pela resolução eficiente de problemas e sempre busco aprimorar minhas habilidades de pesquisa para encontrar soluções criativas e eficazes.
 
 🔥 Interesses Pessoais:
 
 - 👨🏽‍💻 Estou estudando **Orientação a objetos** para conseguir escrever códigos melhores e mais reutilizáveis;
-- 🤔 Meus hobbies são assistir jogos de vôlei e tênis e ler;
+- 🤔 Meus hobbies são assistir jogos de vôlei, tênis e ler;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedora;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 - 📫 Por favor, envie um email para **carolinasouza0@gmail.com** para me encontrar.
