@@ -1,21 +1,19 @@
-Olá, me chamo **Carolina Pedrosa**, sou de Recife, Brasil e atualmente estou fazendo o curso de **Desenvolvimento web Full Stack na Trybe** 🚀. 
+Olá, me chamo **Carolina Pedrosa**, sou de Recife, Brasil e atualmente trabalho como desenvolvedora web trainee na  **Hacklab** 🚀. 
 
 ⚡️ **Sobre mim**:
 
 - Tenho formação em Letras/Português. Além disso, também cursei 3 anos de Engenharia Elétrica.
 - Durante minha graduação em Engenharia, tive a oportunidade de trabalhar com linguagens de programação como C/C++ e aprendi a utilizar o MatLab.
-- Ttive uma experiência enriquecedora durante um intercâmbio de um ano na Irlanda, onde estudei Engenharia de Automação.</p>
+- Tive uma experiência enriquecedora durante um intercâmbio de um ano na Irlanda, onde estudei Engenharia de Automação.</p>
 - Tenho uma paixão pela resolução eficiente de problemas e sempre busco aprimorar minhas habilidades de pesquisa para encontrar soluções criativas e eficazes.
 
 🔥 Interesses Pessoais:
 
-- 👨🏽‍💻 Estou estudando **Orientação a objetos** para conseguir escrever códigos melhores e mais reutilizáveis;
-- 🤔 Meus hobbies são assistir jogos de vôlei, tênis e ler;
-- 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedora;
-- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
+- 👩🏽‍💻 Atualmente, estou mergulhando no mundo do desenvolvimento web com foco em Vue.js e Sass, visando aprimorar minhas habilidades e construir interfaces mais dinâmicas e elegantes;
+- 🤔 Meus hobbies incluem assistir jogos de vôlei, tênis e dedicar tempo à leitura, sempre buscando novas fontes de inspiração;
+- 💼 Estou em constante busca por conhecimento para evoluir na minha carreira de desenvolvedora, procurando novos desafios e oportunidades de crescimento;
+- 💬 Sinta-se à vontade para me fazer qualquer pergunta, estou sempre disposta a ajudar e trocar conhecimentos;
 - 📫 Por favor, envie um email para **carolinasouza0@gmail.com** para me encontrar.
-
-<p>Sinta-se à vontade para entrar em contato comigo para discutir projetos, colaborações ou apenas para trocar ideias. Você pode me encontrar nos seguintes canais:</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-carolinapedrosadev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolina-pedrosa-dev/)](https://www.linkedin.com/in/carolina-pedrosa-dev/)
 [![Gmail Badge](https://img.shields.io/badge/-carolinasouza0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carolinasouza0@gmail.com)](mailto:carolinasouza0@gmail.com)
