@@ -1,4 +1,4 @@
-Olá, me chamo **Carolina Pedrosa**, sou de Recife, Brasil e atualmente trabalho como desenvolvedora web trainee na  **Hacklab** 🚀. 
+Olá, me chamo **Carolina Pedrosa**, sou de Recife, Brasil e atualmente trabalho como desenvolvedora web junior na  **Hacklab** 🚀. 
 
 ⚡️ **Sobre mim**:
 
