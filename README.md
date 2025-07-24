@@ -9,7 +9,7 @@ Olá, me chamo **Carolina Pedrosa**, sou de Recife, Brasil e atualmente trabalho
 
 🔥 Interesses Pessoais:
 
-- 👩🏽‍💻 Atualmente, estou mergulhando no mundo do desenvolvimento web com foco em Vue.js e Sass, visando aprimorar minhas habilidades e construir interfaces mais dinâmicas e elegantes;
+- 👩🏽‍💻 Atualmente, estou mergulhando no mundo do desenvolvimento web no Wordpress, visando aprimorar minhas habilidades utilizando o PHP e construindo interfaces mais dinâmicas e elegantes;
 - 🤔 Meus hobbies incluem assistir jogos de vôlei, tênis e dedicar tempo à leitura, sempre buscando novas fontes de inspiração;
 - 💼 Estou em constante busca por conhecimento para evoluir na minha carreira de desenvolvedora, procurando novos desafios e oportunidades de crescimento;
 - 💬 Sinta-se à vontade para me fazer qualquer pergunta, estou sempre disposta a ajudar e trocar conhecimentos;
